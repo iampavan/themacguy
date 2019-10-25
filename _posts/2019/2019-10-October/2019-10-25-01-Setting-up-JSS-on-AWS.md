@@ -8,7 +8,7 @@ tags:
 published: true
 ---
 
-# At the time of writing this article,  I was using :
+# At the time of writing this article, I was using :
 
 - Jamf Pro 10.16
 - macOS Catalina 10.15.0 Build 19A602
