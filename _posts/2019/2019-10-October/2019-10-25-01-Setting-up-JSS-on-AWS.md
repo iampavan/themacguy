@@ -21,7 +21,7 @@ Prerequisites :
 
     ![1.png](/images/jss-on-aws/1.png)
 
-    3. Jamf Pro Manual Installtion > Download
+    3. Jamf Pro Manual Installation > Download
 
     ![2.png](/images/jss-on-aws/2.png)
 
