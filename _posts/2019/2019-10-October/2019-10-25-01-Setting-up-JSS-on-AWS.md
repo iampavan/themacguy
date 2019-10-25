@@ -1,10 +1,11 @@
 ---
-title: Setting up Jamf Pro on AWS
+title: Setup Jamf Pro on AWS
 date: '2019-10-25 23:24:59 +0530'
 tags:
   - Jamf
   - JSS
   - AWS
+  - Casper Suite
 published: true
 ---
 Step by step guide to setup JSS on AWS.
