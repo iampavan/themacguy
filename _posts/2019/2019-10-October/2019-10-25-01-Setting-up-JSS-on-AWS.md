@@ -19,11 +19,11 @@ Prerequisites :
 
     2. Click Account > My Assets
 
-    ![1.png]({{site.baseurl}}/_posts/2019/2019-10-October/1.png)
+    ![1.png](/_posts/2019/2019-10-October/1.png)
 
     3. Jamf Pro Manual Installtion > Download
 
-    ![2.png]({{site.baseurl}}/_posts/2019/2019-10-October/2.png)
+    ![2.png](/_posts/2019/2019-10-October/2.png)
 
 
 ## References articles :
