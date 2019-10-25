@@ -1,5 +1,5 @@
 ---
-title: Build a Jekyll site
+title: How to create a blog (Like this one.. Literally!)
 date: '2019-08-25 23:24:59 +0530'
 tags:
   - Jekyll
@@ -7,7 +7,7 @@ tags:
   - Website
 published: true
 ---
-Step by step guide to build Jekyll site
+Step by step guide to build a Jekyll site
 
 ## At the time of writing this article, I was using :
 
