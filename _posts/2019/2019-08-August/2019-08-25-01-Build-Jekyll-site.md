@@ -1,5 +1,5 @@
 ---
-title: Setting up a Jekyll site
+title: Build a Jekyll site
 date: '2019-08-25 23:24:59 +0530'
 tags:
   - Jekyll
@@ -7,7 +7,7 @@ tags:
   - Website
 published: true
 ---
-Step by step guide to setup Jekyll site
+Step by step guide to build Jekyll site
 
 ## At the time of writing this article, I was using :
 
