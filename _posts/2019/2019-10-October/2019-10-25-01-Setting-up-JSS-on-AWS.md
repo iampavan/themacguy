@@ -19,11 +19,11 @@ Prerequisites :
 
     2. Click Account > My Assets
 
-    ![123.png](/images/russ-ward-659rz6bAks8-unsplash.jpg)
+    ![1.png](/images/jss-on-aws/1.jpg)
 
     3. Jamf Pro Manual Installtion > Download
 
-    ![2.png](/_posts/2019/2019-10-October/2.png)
+    ![2.png](/images/jss-on-aws/1.jpg)
 
 
 ## References articles :

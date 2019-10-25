@@ -3,7 +3,6 @@ title: "Contact Me"
 permalink: /contact/
 ---
 
-- Name :
-- Phone :
-- Email :
-- Linkedin :
+- Name : Pavan Raju
+- Email : praju@lavabit.com
+- Linkedin : https://www.linkedin.com/in/rajupavan/
