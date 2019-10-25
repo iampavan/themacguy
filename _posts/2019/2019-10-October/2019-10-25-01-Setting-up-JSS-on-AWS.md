@@ -7,13 +7,14 @@ tags:
   - AWS
 published: true
 ---
+Step by step guide to setup JSS on AWS.
 
 ## At the time of writing this article, I was using :
 
 - Jamf Pro 10.16
 - macOS Catalina 10.15.0 Build 19A602
 
-## Prerequisites :
+## Prerequisites for the setup :
 
 1. Amazon AWS account - <https://aws.amazon.com/free/>{:target="_blank"}
 2. Jamf Pro Manual Installer
