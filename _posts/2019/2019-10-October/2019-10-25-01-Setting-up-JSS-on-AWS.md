@@ -19,11 +19,11 @@ Prerequisites :
 
     2. Click Account > My Assets
 
-    ![1.png](/images/jss-on-aws/1.jpg)
+    ![1.png](/images/jss-on-aws/1.png)
 
     3. Jamf Pro Manual Installtion > Download
 
-    ![2.png](/images/jss-on-aws/1.jpg)
+    ![2.png](/images/jss-on-aws/1.png)
 
 
 ## References articles :
