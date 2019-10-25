@@ -15,9 +15,9 @@ published: true
 
 ## Prerequisites :
 
-1. Amazon AWS account - <https://aws.amazon.com/free/>
+1. Amazon AWS account - <https://aws.amazon.com/free/>{:target="_blank"}
 2. Jamf Pro Manual Installer
-	- Login to your jamfnation account <https://www.jamf.com/jamf-nation/>
+	- Login to your jamfnation account <https://www.jamf.com/jamf-nation/>{:target="_blank"}
     - Click Account > My Assets
 
     ![1.png](/images/jss-on-aws/1.png)
