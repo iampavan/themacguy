@@ -5,6 +5,7 @@ tags:
   - Jekyll
   - Blog
   - Website
+  - Github
 published: true
 ---
 Step by step guide to build a Jekyll site
