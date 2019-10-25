@@ -35,4 +35,4 @@ Random
 - <https://www.youtube.com/watch?v=NoRS2D-cyko&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=11>{:target="_blank"}
 
 - <https://joshua-d-miller.com/new-theme-for-blog/>{:target="_blank"}
-- https://github.com/artemsheludko/flexible-jekyll>{:target="_blank"}
+- <https://github.com/artemsheludko/flexible-jekyll>{:target="_blank"}
