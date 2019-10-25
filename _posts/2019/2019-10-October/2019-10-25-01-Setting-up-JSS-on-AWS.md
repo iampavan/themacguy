@@ -13,16 +13,16 @@ published: true
 - macOS Catalina 10.15.0 Build 19A602
 
 Prerequisites :
-Amazon AWS account - https://aws.amazon.com/free/
-Jamf Pro Manual Installer 
+1. [Amazon AWS account](https://aws.amazon.com/free/)
+2. Jamf Pro Manual Installer
 	1. Login to your [jamfnation](https://www.jamf.com/jamf-nation/) account
-    
+
     2. Click Account > My Assets
-    
+
     ![1.png]({{site.baseurl}}/_posts/2019/2019-10-October/1.png)
 
     3. Jamf Pro Manual Installtion > Download
-    
+
     ![2.png]({{site.baseurl}}/_posts/2019/2019-10-October/2.png)
 
 
