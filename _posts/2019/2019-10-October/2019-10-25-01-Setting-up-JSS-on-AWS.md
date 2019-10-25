@@ -28,3 +28,7 @@ published: true
 
 
 ## References articles :
+
+1. @rtrouton - [Creating a Jamf Pro Cloud Distribution Point using Amazon Web Services](https://derflounder.wordpress.com/2017/03/07/creating-a-jamf-pro-cloud-distribution-point-using-amazon-web-services/)
+
+2. @Richard Purves - [JSS and AWS: Cloud Design for a beginner](https://www.richard-purves.com/2017/03/09/jss-and-aws-cloud-design-for-a-beginner/)
