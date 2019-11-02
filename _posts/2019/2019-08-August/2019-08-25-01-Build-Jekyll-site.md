@@ -54,6 +54,6 @@ Random
 
 4. Adding comments section :
 - <https://darekkay.com/blog/static-site-comments/>{:target="_blank"}
-
+- <https://mademistakes.com/articles/jekyll-static-comments/>{:target="_blank"}
 
 
