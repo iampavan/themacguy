@@ -1,4 +1,5 @@
 ---
+layout: post
 title: How to create a blog (Like this one.. Literally!)
 date: '2019-08-25 23:24:59 +0530'
 tags:
@@ -55,5 +56,3 @@ Random
 4. Adding comments section :
 - <https://darekkay.com/blog/static-site-comments/>{:target="_blank"}
 - <https://mademistakes.com/articles/jekyll-static-comments/>{:target="_blank"}
-
-
