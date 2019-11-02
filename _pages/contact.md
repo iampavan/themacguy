@@ -5,4 +5,4 @@ permalink: /contact/
 
 - Name : Pavan Raju
 - Email : praju@lavabit.com
-- Linkedin : [linkedin.com/in/rajupavan](https://www.linkedin.com/in/rajupavan/)
+- Linkedin : [linkedin.com/in/rajupavan](https://www.linkedin.com/in/rajupavan/){:target="_blank"}
