@@ -41,7 +41,6 @@ Random
 
 ## To-do items :
 
-```
 1. Adding Dark mode (auto) :
 - <https://derekkedziora.com/blog/dark-mode>{:target="_blank"}
 - <https://talk.jekyllrb.com/t/night-mode-plugin/428>{:target="_blank"}
@@ -53,4 +52,8 @@ Random
 3. Adding favicon :
 - <https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed>{:target="_blank"}
 
-```
+4. Adding comments section :
+- <https://darekkay.com/blog/static-site-comments/>{:target="_blank"}
+
+
+
