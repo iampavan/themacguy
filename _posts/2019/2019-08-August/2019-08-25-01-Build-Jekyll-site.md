@@ -27,6 +27,8 @@ Step by step guide to build a Jekyll site
 - <https://help.github.com/en/articles/troubleshooting-custom-domains>{:target="_blank"}
 - <https://jekyllrb.com/docs/configuration/options/>{:target="_blank"}
 
+- <https://didecentral.com/contributors-guide/site-config/#changing-the-font-size>{:target="_blank"}
+
 Hotjar website tracking
 - <https://mycyberuniverse.com/add-hotjar-tracking-to-jekyll-website.html>{:target="_blank"}
 
