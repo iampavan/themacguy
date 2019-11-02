@@ -114,7 +114,7 @@ author:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      url: mailto:praju@lavabit.com
+      # url: mailto:praju@lavabit.com
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://themacguy.in"
