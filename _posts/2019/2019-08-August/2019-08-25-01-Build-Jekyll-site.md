@@ -17,7 +17,7 @@ Step by step guide to build a Jekyll site
 
 
 
-## References articles :
+## Reference articles :
 
 - <https://jekyllrb.com/docs/installation/macos/>{:target="_blank"}
 - <https://botsplash.com/blog/migrating-from-medium-to-jekyll-and-netlify-cms.html>{:target="_blank"}
@@ -37,3 +37,20 @@ Random
 
 - <https://joshua-d-miller.com/new-theme-for-blog/>{:target="_blank"}
 - <https://github.com/artemsheludko/flexible-jekyll>{:target="_blank"}
+
+
+## To-do items :
+
+```
+1. Adding Dark mode (auto) :
+- <https://derekkedziora.com/blog/dark-mode>{:target="_blank"}
+- <https://talk.jekyllrb.com/t/night-mode-plugin/428>{:target="_blank"}
+
+2. Adding Search bar :
+- <https://medium.com/@urre/instant-jekyll-search-f77065d60047>{:target="_blank"}
+- <https://blog.webjeda.com/instant-jekyll-search/>{:target="_blank"}
+
+3. Adding favicon :
+- <https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed>{:target="_blank"}
+
+```
