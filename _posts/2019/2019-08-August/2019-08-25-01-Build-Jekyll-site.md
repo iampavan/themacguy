@@ -1,5 +1,4 @@
 ---
-layout: 'post'
 title: How to create a blog (Like this one.. Literally!)
 date: '2019-08-25 23:24:59 +0530'
 tags:
