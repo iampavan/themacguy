@@ -7,6 +7,8 @@ tags:
   - Website
   - Github
 permalink: "/blog/:title.html"
+header:
+  teaser: "/assets/images/blog-posts-images/02-blog.png"
 published: true
 ---
 Step by step guide to build a Jekyll site
