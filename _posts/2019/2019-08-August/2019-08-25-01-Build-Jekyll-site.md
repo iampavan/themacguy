@@ -58,5 +58,6 @@ Random
 - <https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed>{:target="_blank"}
 
 4. Adding comments section :
+- <https://help.disqus.com/en/articles/1717111-what-s-a-shortname>{:target="_blank"}
 - <https://darekkay.com/blog/static-site-comments/>{:target="_blank"}
 - <https://mademistakes.com/articles/jekyll-static-comments/>{:target="_blank"}
