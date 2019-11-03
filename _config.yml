@@ -23,7 +23,7 @@ description              : "My Personal Blog."
 url                      : "https://themacguy.in"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : "iampavan/themacguy"
-teaser                   : "/assets/images/misc/teaser-missing.png"
+teaser                   : "/assets/images/misc/teaser-missing.png" # /assets/images/500x300.png
 logo                     : "/assets/images/pa1-custom/logo-1.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
