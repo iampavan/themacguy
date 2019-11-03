@@ -23,7 +23,7 @@ description              : "My Personal Blog."
 url                      : https://themacguy.in # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : iampavan/themacguy # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
-teaser                   : /assets/images/misc/teaser-missing.png"
+teaser                   : "/assets/images/misc/teaser-missing.png"
 logo                     : "/assets/images/pa1-custom/logo-1.png"
 masthead_title           : # overrides the website title displayed in the masthead, use " " for no title
 # breadcrumbs            : false # true, false (default)
