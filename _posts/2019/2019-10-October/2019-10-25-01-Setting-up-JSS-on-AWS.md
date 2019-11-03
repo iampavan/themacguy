@@ -7,6 +7,8 @@ tags:
   - AWS
   - Casper Suite
 permalink: "/blog/:title.html"
+header:
+  teaser: "/assets/images/blog-posts-images/jss-on-aws/jamf-aws.png"
 published: true
 ---
 Step by step guide to setup JSS on AWS.
