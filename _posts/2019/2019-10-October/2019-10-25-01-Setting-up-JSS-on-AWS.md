@@ -23,11 +23,11 @@ Step by step guide to setup JSS on AWS.
 	- Login to your jamfnation account <https://www.jamf.com/jamf-nation/>{:target="_blank"}
     - Click Account > My Assets
 
-    ![1.png](/images/jss-on-aws/1.png)
+    ![1.png](/assets/images/blog-posts-images/jss-on-aws/1.png)
 
     - Jamf Pro Manual Installation > Download
 
-    ![2.png](/images/jss-on-aws/2.png)
+    ![2.png](/assets/images/blog-posts-images/jss-on-aws/2.png)
 
 
 ## Reference articles :
