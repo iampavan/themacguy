@@ -8,6 +8,6 @@ published: true
 ---
 If your macOS and iOS clients aren't getting Apple push notifications
 
-# Learn what to do if your macOS and iOS clients don’t see Apple push notifications when connected to a network :
+### Learn what to do if your macOS and iOS clients don’t see Apple push notifications when connected to a network :
 
 <https://support.apple.com/en-in/HT203609>{:target="_blank"}
