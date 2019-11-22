@@ -10,6 +10,10 @@ published: true
 ---
 How to fix: The volume can't be ejected because it's currently in use
 
+
+![volume_wasnt_ejected.png](/assets/images/blog-posts-images/volume-not-ejecting/volume_wasnt_ejected.png)
+
+
 ## At the time of writing this article, I was using :
 
 - macOS Catalina 10.15.1 Build 19B88
