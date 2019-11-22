@@ -1,13 +1,46 @@
 ---
-title: "Apple push notifications troubleshooting"
-date: '2019-11-19 23:58:59 +0530'
+title: "Force eject external volume"
+date: '2019-11-22 19:24:59 +0530'
 tags:
-  - APPLE
+  - macOS
+  - TROUBLESHOOTING
+  - TERMINAL
 permalink: "/blog/:title.html"
 published: true
 ---
-If your macOS and iOS clients aren't getting Apple push notifications
+How to fix: The volume can't be ejected because it's currently in use
 
-### Learn what to do if your macOS and iOS clients don’t see Apple push notifications when connected to a network :
+## At the time of writing this article, I was using :
 
-<https://support.apple.com/en-in/HT203609>{:target="_blank"}
+- macOS Catalina 10.15.1 Build 19B88
+
+## Steps :
+
+1. Launch the `Terminal.app` from the Utilities folder of your Applications folder
+
+2. Next we need to find the proper name of our disk:
+```
+ls -ll /Volumes/
+```
+
+3. Now let’s find out which system process uses our disk. For this we use the `lsof` tool.
+
+```
+sudo lsof | grep /Volumes/Samsung\ T5
+```
+
+4. Once we know what process is preventing us from ejecting our disk, we can force it to stop. For this we use the `killall` tool.
+
+```
+sudo killall mds
+```
+
+5. Sometimes you might need to kill the process by its PID.
+
+```
+sudo kill -9 88512
+```
+
+## Reference articles :
+
+<https://mycyberuniverse.com/macos/how-fix-volume-cant-be-ejected-because-currently-use.html>{:target="_blank"}
