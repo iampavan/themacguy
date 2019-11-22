@@ -38,6 +38,11 @@ sudo killall mds
 sudo kill -9 88512
 ```
 
+6. Testing bash code
+{% highlight bash %}
+sudo lsof | grep /Volumes/Samsung\ T5
+{% endhighlight %}
+
 ## Reference articles :
 
 <https://mycyberuniverse.com/macos/how-fix-volume-cant-be-ejected-because-currently-use.html>{:target="_blank"}
