@@ -3,7 +3,9 @@ title: "Contact Me"
 permalink: /contact/
 ---
 
-My name is Pavan Raju, I'm a Mac admin at Expedia Group. Here I write about things I'm learning and usually related to Mac things.
+My name is Pavan Raju, I am squarely focussed on enabling employees to do their best work as a Mac admin at Expedia Group.
+
+Here I write mostly things that I'm learning about. Thanks for stopping by.
 
 - Email : [praju@lavabit.com][email-link]{:target="_blank"}
 - Linkedin : [linkedin.com/in/rajupavan][Linkedin-page]{:target="_blank"}
