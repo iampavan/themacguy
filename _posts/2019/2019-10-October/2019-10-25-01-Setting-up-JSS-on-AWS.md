@@ -1,5 +1,5 @@
 ---
-title: "Jamf on AWS"
+title: "Jamf Pro on AWS"
 date: '2019-10-25 23:24:59 +0530'
 tags:
   - DOCKER
