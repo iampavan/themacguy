@@ -1,22 +1,48 @@
 ---
-title: "Setup Jamf Pro on AWS"
+title: "Jamf on AWS"
 date: '2019-10-25 23:24:59 +0530'
 tags:
-  - Jamf
+  - DOCKER
+  - JAMF PRO
   - JSS
   - AWS
-  - Casper Suite
+  -
 permalink: "/blog/:title.html"
 header:
   teaser: "/assets/images/blog-posts-images/jss-on-aws/jamf-aws.png"
 published: true
 ---
-Step by step guide to setup JSS on AWS.
 
 ## At the time of writing this article, I was using :
 
 - Jamf Pro 10.16
 - macOS Catalina 10.15.0 Build 19A602
+
+
+# What are we setting up...
+
+1. Jamf on Docker Containers
+- This will run locally on the machine
+- <https://bryson3gps.wordpress.com/2019/11/25/so-you-want-to-containerize-jamf-pro/>{:target="_blank"}
+
+2. Jamf on AWS
+- Makes use of above docker.
+- Google domain needed to add CNAME.
+- <https://bryson3gps.wordpress.com/2019/11/25/so-you-want-to-run-serverless-jamf-pro/#comment-4733>{:target="_blank"}
+
+3a. Azure LDAP and Azure SSO
+
+- <https://hcsonline.com/images/PDFs/Jamf_Microsoft_Azure_Integration.pdf>{:target="_blank"}
+- <https://hcsonline.com/images/Identity_Management_Azure_Jamf.pdf>{:target="_blank"}
+
+- Used some of these mappings : <https://travellingtechguy.eu/integrate-azure-ldap-in-jamf-pro/>{:target="_blank"}
+
+3b. JumpCloud as LDAP provider and SSO.
+
+- <https://travellingtechguy.eu/jumpcloud-as-ldap-provider-in-jamfcloud-jamfpro/>{:target="_blank"}
+
+
+
 
 ## Prerequisites for the setup :
 
