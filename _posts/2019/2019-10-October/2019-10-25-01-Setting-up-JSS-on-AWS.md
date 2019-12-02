@@ -19,7 +19,7 @@ published: true
 - macOS Catalina 10.15.0 Build 19A602
 
 
-# What are we setting up...
+## What are we setting up...
 
 1. Jamf on Docker Containers
 - This will run locally on the machine
@@ -28,7 +28,7 @@ published: true
 2. Jamf on AWS
 - Makes use of above docker.
 - Google domain needed to add CNAME.
-- <https://bryson3gps.wordpress.com/2019/11/25/so-you-want-to-run-serverless-jamf-pro/#comment-4733>{:target="_blank"}
+- <https://bryson3gps.wordpress.com/2019/11/25/so-you-want-to-run-serverless-jamf-pro/>{:target="_blank"}
 
 3a. Azure LDAP and Azure SSO
 
@@ -40,7 +40,6 @@ published: true
 3b. JumpCloud as LDAP provider and SSO.
 
 - <https://travellingtechguy.eu/jumpcloud-as-ldap-provider-in-jamfcloud-jamfpro/>{:target="_blank"}
-
 
 
 
