@@ -31,17 +31,13 @@ Step by step guide to build a Jekyll site
 
 - <https://didecentral.com/contributors-guide/site-config/#changing-the-font-size>{:target="_blank"}
 
+
 Hotjar website tracking
 - <https://mycyberuniverse.com/add-hotjar-tracking-to-jekyll-website.html>{:target="_blank"}
 
+
 Jekyll theme
 - <https://rubygems.org/search?utf8=%E2%9C%93&query=jekyll-theme>{:target="_blank"}
-
-Random
-- <https://www.youtube.com/watch?v=NoRS2D-cyko&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=11>{:target="_blank"}
-
-- <https://joshua-d-miller.com/new-theme-for-blog/>{:target="_blank"}
-- <https://github.com/artemsheludko/flexible-jekyll>{:target="_blank"}
 
 
 Adding Dark mode (auto) :
@@ -62,7 +58,25 @@ Adding comments section :
 - <https://mademistakes.com/articles/jekyll-static-comments/>{:target="_blank"}
 
 
+Adding favicon :
+- <https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed>{:target="_blank"}
+
+
+Adding Webpage icon for iOS home screen :
+- Need to edit `_includes/layout/head.html` file.
+- <https://developer.apple.com/library/archive/documentation/AppleApplications/Reference/SafariWebContent/ConfiguringWebApplications/ConfiguringWebApplications.html>{:target="_blank"}
+- <https://github.com/philipithomas/jekyll-resume/blob/master/_includes/layout/head.html>{:target="_blank"}
+
+
+Random
+- <https://www.youtube.com/watch?v=NoRS2D-cyko&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=11>{:target="_blank"}
+
+- <https://joshua-d-miller.com/new-theme-for-blog/>{:target="_blank"}
+- <https://github.com/artemsheludko/flexible-jekyll>{:target="_blank"}
+
+
+
+
 ## To-do items :
 
-1. Adding favicon :
-- <https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed>{:target="_blank"}
+1. Dark mode needs to be refined.
