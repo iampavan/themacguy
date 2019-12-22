@@ -80,3 +80,6 @@ Random
 ## To-do items :
 
 1. Dark mode needs to be refined.
+
+2. Few posts are not horizontal-wrapping. Eg. <http://127.0.0.1:9111/blog/01-Build-Jekyll-site.html>{:target="_blank"}
+When viewed from an iOS device, it should nicely wrap. Eg. <https://themacguy.in/blog/02-volume-not-ejecting.html>{:target="_blank"}
