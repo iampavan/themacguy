@@ -44,20 +44,25 @@ Random
 - <https://github.com/artemsheludko/flexible-jekyll>{:target="_blank"}
 
 
-## To-do items :
-
-1. Adding Dark mode (auto) :
+Adding Dark mode (auto) :
+- <https://derekkedziora.com/blog/dark-mode-revisited>{:target="_blank"}
+- Tip : I also cloned Derek's repo and played around running locally on my machine <https://github.com/derekkedziora/derekkedziora.com>{:target="_blank"}
 - <https://derekkedziora.com/blog/dark-mode>{:target="_blank"}
 - <https://talk.jekyllrb.com/t/night-mode-plugin/428>{:target="_blank"}
 
-2. Adding Search bar :
+
+Adding Search bar :
 - <https://medium.com/@urre/instant-jekyll-search-f77065d60047>{:target="_blank"}
 - <https://blog.webjeda.com/instant-jekyll-search/>{:target="_blank"}
 
-3. Adding favicon :
-- <https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed>{:target="_blank"}
 
-4. Adding comments section :
+Adding comments section :
 - <https://help.disqus.com/en/articles/1717111-what-s-a-shortname>{:target="_blank"}
 - <https://darekkay.com/blog/static-site-comments/>{:target="_blank"}
 - <https://mademistakes.com/articles/jekyll-static-comments/>{:target="_blank"}
+
+
+## To-do items :
+
+1. Adding favicon :
+- <https://medium.com/@xiang_zhou/how-to-add-a-favicon-to-your-jekyll-site-2ac2179cc2ed>{:target="_blank"}
