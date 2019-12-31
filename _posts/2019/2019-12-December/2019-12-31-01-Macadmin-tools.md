@@ -1,6 +1,6 @@
 ---
 title: "MacAdmin Tools"
-date: '2019-12-31 23:58:59 +0530'
+date: '2019-12-31 18:30:59 +0530'
 tags:
   - APPLE
 permalink: "/blog/:title.html"
