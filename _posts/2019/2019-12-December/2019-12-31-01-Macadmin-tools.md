@@ -4,6 +4,8 @@ date: '2019-12-31 18:30:59 +0530'
 tags:
   - APPLE
 permalink: "/blog/:title.html"
+header:
+  teaser: "/assets/images/blog-posts-images/03-tools.png"
 published: true
 ---
 ## These are the tools that I use :
