@@ -10,7 +10,7 @@ published: true
 
 - [Packages - WhiteBox](http://s.sudre.free.fr/Software/Packages/about.html){:target="_blank"} - A free package creation tool. The gold standard of making your own custom installer packages
 
-- [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/){:target="_blank"} - An application for inspecting the contents of macOS packages
+- [Suspicious Package](http://www.mothersruin.com/software/SuspiciousPackage/){:target="_blank"} - Another similar application for inspecting the contents of macOS packages
 
 - [Pacifist](https://www.charlessoft.com/){:target="_blank"} - Similar app to inspect / create packages
 
@@ -34,4 +34,4 @@ published: true
 
 ## Useful links :
 
-- https://github.com/smashism/awesome-macadmin-tools
+- <https://github.com/smashism/awesome-macadmin-tools>{:target="_blank"}
