@@ -23,6 +23,7 @@ Step by step guide to build a Jekyll site
 ## Reference articles :
 
 - <https://jekyllrb.com/docs/installation/macos/>{:target="_blank"}
+- <https://medium.com/@hisa_py/jekyll-with-asdf-ruby-fix-ruby-ffi-loaderror-on-macos-high-sierra-c302f0567e9b>{:target="_blank"}
 - <https://botsplash.com/blog/migrating-from-medium-to-jekyll-and-netlify-cms.html>{:target="_blank"}
 - <https://mmistakes.github.io/minimal-mistakes/docs/configuration/>{:target="_blank"}
 - <https://dev.to/trentyang/how-to-setup-google-domain-for-github-pages-1p58>{:target="_blank"}
