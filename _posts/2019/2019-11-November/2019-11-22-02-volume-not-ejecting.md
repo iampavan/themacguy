@@ -6,6 +6,8 @@ tags:
   - TROUBLESHOOTING
   - TERMINAL
 permalink: "/blog/:title.html"
+header:
+  teaser: "/assets/images/blog-posts-images/05-volume.png"
 published: true
 ---
 How to fix: The volume can't be ejected because it's currently in use
