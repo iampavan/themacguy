@@ -24,9 +24,9 @@ published: true
 
 - [AutoDMG](https://github.com/MagerValp/AutoDMG){:target="_blank"} - Create deployable system images from macOS installers
 
-- [Atom](https://atom.io/){:target="_blank"} - A free, open source text editor
+- [Atom IDE](https://atom.io/){:target="_blank"} - A free, open source IDE
 
-- [Sublime Text](https://www.sublimetext.com/){:target="_blank"} - A high performance, cross-platform text editor
+- [Sublime Text IDE](https://www.sublimetext.com/){:target="_blank"} - A high performance, cross-platform IDE
 
 - [SUS Inspector](https://github.com/hjuutilainen/sus-inspector/releases){:target="_blank"} - An app for viewing detailed information about Apple's Software Update Service
 
