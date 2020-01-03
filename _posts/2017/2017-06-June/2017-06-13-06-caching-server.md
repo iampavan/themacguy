@@ -1,6 +1,6 @@
 ---
-title: "Does OS X Server have a print server?"
-date: 2017-06-01 23:55:59 +0530
+title: "Decoding the Caching server"
+date: 2017-06-13 23:55:59 +0530
 tags:
   - macOS
   - SERVER
@@ -10,20 +10,65 @@ comments: true
 published: true
 ---
 
-> Q : Does the latest version of OS X Server have print server capabilities? If I have three printers that are AirPrint compatible and would like to check whether there’s a way to pre-install drivers on a configuration file for a user to plug in to his or her Mac and all the printers be configured automatically.
+## 1. Server and Clients – Behind Same Public IP (same or different subnet)
+
+<img src="/assets/images/blog-posts-images/2017/caching-server/1.png" width="400">
+
+***
+
+<img src="/assets/images/blog-posts-images/2017/caching-server/2.png" width="400">
+
+***
+
+1. First, the server registers with Apple, it provides it Public IP and the Private IP.  Apple notes both the information.
+2. Second, When the client requests Apple for  any download, since Apple knows that there is a caching server associated with that Public IP, it redirects the client.
+3. Third, the client can be on same subnet or different subnet.
+
+<br/> <br/>
 
 
-So, the answer to this is no. But a more round-about answer is sort of (as far as driver delivery and config), depending on your infrastructure.
-
-Ok, base answer. There is no “print server” in OS X Server any more.  Instead, you can add printers to the server and share them using system preferences.  But if they are network printers (or AirPrint printers) they are already broadcasting on the network so resharing them will only result in multiple broadcast queues.  Likewise, OS X and Server alone can not “deliver” print drivers to devices.
-
-Now, there are products that can accomplish this. For example, you can look at something as simple as Apple Remote Desktop. Now, the process would still be manual in that you would have to push the drivers to the device and you would have to have credentials for the device. So if these are not devices owned by you that is likely not going to work.  If you have a fleet of devices, JAMF is a great solution as all software can be delivered dynamically and transparently to the end user.  But, that is really for environments over 50 devices.
-
-But, all that said, if you have a device that is not configured to the printer and you select the printer, is the device able to find the driver in Apple’s software repository? For small deployments where you may not control the individual systems, that is likely the easiest way.
-
-Or, you can place the drivers and a configuration script on a file share.
+## 2. Server – 1 Public IP (constant), Clients – different Public IP (constant)
 
 
-## Reference articles :
+(We need to mentioned the different range of public IPs that the caching server should serve in the server app. And also, In order to avoid manual configuration of clients, caching service uses DNS TXT records to publish the public IP address information for clients on your network)
 
-- <https://discussions.apple.com/thread/7038478?start=0&tstart=0>{:target="_blank"}
+
+![3.png](/assets/images/blog-posts-images/2017/caching-server/3.png)
+
+![4.png](/assets/images/blog-posts-images/2017/caching-server/4.png)
+
+![5.png](/assets/images/blog-posts-images/2017/caching-server/5.png)
+
+![6.png](/assets/images/blog-posts-images/2017/caching-server/6.png)
+
+![7.png](/assets/images/blog-posts-images/2017/caching-server/7.png)
+
+![8.png](/assets/images/blog-posts-images/2017/caching-server/8.png)
+
+
+1. First, the server registers with Apple, it provides it Public IP and the Private IP.  Apple notes both the information.
+2. Second, When the client requests Apple for  any download, (client and server’s public IPs are different), but since you’ve mentioned the different range of public IPs that the caching server should serve, Apple will redirect the client., but the server is on different Public IP, hence the DNS TXT records are required.
+3. Third, the client now contact the caching server.
+
+<br/> <br/>
+
+- <https://help.apple.com/deployment/macos/#/ior0a1af509a>{:target="_blank"}
+- <https://help.apple.com/serverapp/mac/5.3/#/apd6015d9573>{:target="_blank"}
+- <https://help.apple.com/deployment/macos/#/ior0617a3d13>{:target="_blank"}
+
+<br/> <br/>
+
+## 3. Server – 1 Public IP (constant), Clients – different Public IP (CHANGING)
+
+
+
+Just like earlier, we need to mention the range of public IPs the caching server should serve.
+
+<br/> <br/>
+
+## 4. Server – 1 Public IP (CHANGING), Clients – different Public IP (CHANGING)
+
+
+NOT IDEAL. The results are arbitrary.
+
+You need to restart the service everyday. So that everyday, the caching server registers with Apple.
