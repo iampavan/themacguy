@@ -1,6 +1,6 @@
 ---
-title: "Does OS X Server have a print server?"
-date: 2017-06-01 23:55:59 +0530
+title: "Decoding SecureToken"
+date: 2019-05-21 23:55:59 +0530
 tags:
   - macOS
   - SERVER

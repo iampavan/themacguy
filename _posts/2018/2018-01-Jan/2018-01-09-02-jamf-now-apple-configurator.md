@@ -1,6 +1,6 @@
 ---
-title: "Does OS X Server have a print server?"
-date: 2017-06-01 23:55:59 +0530
+title: "Jamf Now – Use Apple Configurator 2.5 to enroll iOS devices in DEP"
+date: 2018-01-09 23:55:59 +0530
 tags:
   - macOS
   - SERVER

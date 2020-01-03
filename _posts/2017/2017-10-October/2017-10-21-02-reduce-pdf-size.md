@@ -1,6 +1,6 @@
 ---
-title: "Does OS X Server have a print server?"
-date: 2017-06-01 23:55:59 +0530
+title: "Reduce PDF file size"
+date: 2017-10-21 23:55:59 +0530
 tags:
   - macOS
   - SERVER

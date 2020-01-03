@@ -1,6 +1,6 @@
 ---
-title: "Does OS X Server have a print server?"
-date: 2017-06-01 23:55:59 +0530
+title: "Potential replacements for macOS Server services"
+date: 2018-02-09 23:55:59 +0530
 tags:
   - macOS
   - SERVER

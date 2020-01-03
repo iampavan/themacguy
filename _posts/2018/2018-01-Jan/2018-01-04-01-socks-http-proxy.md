@@ -1,6 +1,6 @@
 ---
-title: "Does OS X Server have a print server?"
-date: 2017-06-01 23:55:59 +0530
+title: "SOCKS proxy? HTTP proxy?"
+date: 2018-01-04 23:55:59 +0530
 tags:
   - macOS
   - SERVER
