@@ -1,7 +1,10 @@
 ---
 title: "Imaging will be gone (soon-ish)"
 date: 2017-03-05 23:55:59 +0530
-tags: APPLE
+tags:
+  - macOS
+  - MAC ADMINISTRATION
+  - APPLE FILE SYSTEM
 permalink: "/blog/:title.html"
 comments: true
 published: true
