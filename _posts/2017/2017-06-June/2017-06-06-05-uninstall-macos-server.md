@@ -10,4 +10,4 @@ comments: true
 published: true
 ---
 
-![1.jpg](/assets/images/blog-posts-images/2017/uninstall-macos-server/1.png)
+![1.png](/assets/images/blog-posts-images/2017/uninstall-macos-server/1.png)
