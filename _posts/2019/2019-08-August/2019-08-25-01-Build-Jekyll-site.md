@@ -69,6 +69,11 @@ Adding Webpage icon for iOS home screen :
 - <https://github.com/philipithomas/jekyll-resume/blob/master/_includes/layout/head.html>{:target="_blank"}
 
 
+Adding Formspree Contact me form:
+- <https://formspree.io/>{:target="_blank"}
+
+
+
 Random
 - <https://www.youtube.com/watch?v=NoRS2D-cyko&list=PLLAZ4kZ9dFpOPV5C5Ay0pHaa0RJFhcmcB&index=11>{:target="_blank"}
 
