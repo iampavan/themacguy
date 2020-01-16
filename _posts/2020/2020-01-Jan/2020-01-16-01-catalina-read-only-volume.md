@@ -5,6 +5,8 @@ tags:
   - APPLE
   - CATALINA
 permalink: "/blog/:title.html"
+header:
+  teaser: "/assets/images/blog-posts-images/11-macos-catalina-disk-utility-show-only-volumes.jpg"
 published: true
 ---
 
@@ -13,7 +15,11 @@ published: true
 - macOS Catalina 10.15.2 Build 19C57
 
 
-## What is the problem...?
+## Question :
+
+
+![11-macos-catalina-disk-utility-show-only-volumes.jpg](/assets/images/blog-posts-images/jss-on-aws/11-macos-catalina-disk-utility-show-only-volumes.jpg)
+
 
 After the installation of Catalina, all the user created folders from root are moved into a separate folder and the root folder is made readonly, containing only system default folders.
 
