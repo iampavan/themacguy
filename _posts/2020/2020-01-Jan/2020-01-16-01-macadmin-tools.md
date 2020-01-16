@@ -28,14 +28,12 @@ Is it possible to make the root folder writeable again?
 
 Make use of symblinks. Let's say you want to create a folder called bar at the root directory. Here are the steps :
 
-1. Create a folder called `bar` at `/System/Volumes/Data/bar`
-
+1. Create a folder called `bar` at `/System/Volumes/Data/bar`<br><br>
 ```
 sudo mkdir /System/Volumes/Data/bar
 ```
 
-2. Create a symbolic link named bar at `/`, which points to `System/Volumes/Data/bar`, a writeable location at the root of the data volume.
-
+2. Create a symbolic link named bar at `/`, which points to `System/Volumes/Data/bar`, a writeable location at the root of the data volume.<br><br>
 ```
 echo -e 'bar\tSystem/Volumes/Data/bar' | sudo tee -a /etc/synthetic.conf
 ```
