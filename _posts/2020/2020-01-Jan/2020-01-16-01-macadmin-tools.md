@@ -26,7 +26,7 @@ Is it possible to make the root folder writeable again?
 
 ## Workaround :
 
-Make use of symblinks. Let's say you want to create a folder called bar at the root directory. Here are the steps :
+Make use of symblinks. Let's say you want to create a folder called `bar` at the root directory. Here are the steps :
 
 1. Create a folder called `bar` at `/System/Volumes/Data/bar`<br><br>
 ```
