@@ -13,7 +13,7 @@ published: true
 - macOS Catalina 10.15.2 Build 19C57
 
 
-## What are we setting up...
+## What is the problem...?
 
 After the installation of Catalina, all the user created folders from root are moved into a separate folder and the root folder is made readonly, containing only system default folders.
 
