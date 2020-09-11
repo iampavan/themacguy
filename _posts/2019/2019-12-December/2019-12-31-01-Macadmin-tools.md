@@ -35,6 +35,9 @@ published: true
 - [Log file navigator](http://lnav.org/features){:target="_blank"} - The  log  file navigator, lnav, is an enhanced log file viewer that takes advantage of any semantic information that can be gleaned from the files being viewed, such as timestamps and log levels.  Using this extra semantic information, lnav can do things like interleaving messages from different files, generate histograms of messages over time, and providing hotkeys for navigating through the file. It is hoped that these features will allow the user to quickly and efficiently zero in on problems.
   - You can do `brew install lnav`
 
+- [bat](https://towardsdatascience.com/awesome-rust-powered-command-line-utilities-b5359c38692#1a8c){:target="_blank"} - bat is a cat clone with syntax highlighting and Git integration.
+  - You can do `brew install bat`
+
 
 
 ## Useful links :
