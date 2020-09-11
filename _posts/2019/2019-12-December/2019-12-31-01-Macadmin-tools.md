@@ -38,6 +38,10 @@ published: true
 - [bat](https://towardsdatascience.com/awesome-rust-powered-command-line-utilities-b5359c38692#1a8c){:target="_blank"} - bat is a cat clone with syntax highlighting and Git integration.
   - You can do `brew install bat`
 
+- [htop](https://medium.com/better-programming/12-terminal-tips-and-tricks-using-macos-and-homebrew-4e89c2ccb2fb){:target="_blank"} - htop is an interactive system monitor, process viewer, and process manager for Unix, and it is said to be a successor to the Unix program top. It shows the updated list of processes running on your Mac and is ordered by the amount of CPU usage.
+  - You can do `brew install htop`
+  - To run, you'll have to `sudo htop`
+
 
 
 ## Useful links :
