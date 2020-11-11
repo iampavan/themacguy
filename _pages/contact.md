@@ -3,7 +3,7 @@ title: "Contact Me"
 permalink: /contact/
 ---
 
-My name is Pavan, I am squarely focused on enabling employees to do their best work as a Mac admin at Expedia Group.
+My name is Pavan, Sales Engineer at Jamf. I am squarely focused on helping organisations succeed with their Apple devices.
 
 Here I write mostly things that I'm learning about. All the information on this blog is a compilation of data gathered from experience, the internet and other reputable sources.
 
