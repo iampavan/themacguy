@@ -42,6 +42,15 @@ published: true
   - You can do `brew install htop`
   - To run, you'll have to `sudo htop`
 
+- [launchd Package Creator](https://github.com/ryangball/launchd-package-creator){:target="_blank"} - A utility that allows you to easily create a .pkg containing a LaunchDaemon or LaunchAgent, and a target script of your choosing.
+
+- [Outset](https://github.com/chilcote/outset){:target="_blank"} - Automatically process packages, profiles, and scripts during boot, login, or on demand.
+  - Login/Logout Hooks Deprecated Technology. Instead, its recommended to use third-party tools such as Outset and Offset.
+  - References :
+    - [Daemons and Services Programming Guide - Login and Logout Scripts](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CustomLogin.html){:target="_blank"}
+    - [JamfNation - Login/Logout Hooks Deprecated Technology](https://www.jamf.com/jamf-nation/discussions/27703/login-logout-hooks-deprecated-technology){:target="_blank"}
+
+
 
 
 ## Useful links :
