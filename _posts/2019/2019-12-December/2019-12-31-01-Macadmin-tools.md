@@ -16,6 +16,8 @@ published: true
 
 - [Pacifist](https://www.charlessoft.com/){:target="_blank"} - Similar app to inspect / create packages
 
+- [Hancock](https://github.com/JeremyAgost/Hancock){:target="_blank"} - This tool retrieves certificates saved in your computer’s Keychain and provides a GUI to easily sign your packages.
+
 - [LaunchControl](https://www.soma-zone.com/LaunchControl/){:target="_blank"} - To inspect launchd items
 
 - [AutoPkg](https://github.com/autopkg/autopkg){:target="_blank"} - Automated third party package download and creation for deployment
