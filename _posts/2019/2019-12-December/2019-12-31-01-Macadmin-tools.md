@@ -52,7 +52,7 @@ published: true
     - [Daemons and Services Programming Guide - Login and Logout Scripts](https://developer.apple.com/library/archive/documentation/MacOSX/Conceptual/BPSystemStartup/Chapters/CustomLogin.html){:target="_blank"}
     - [JamfNation - Login/Logout Hooks Deprecated Technology](https://www.jamf.com/jamf-nation/discussions/27703/login-logout-hooks-deprecated-technology){:target="_blank"}
 
-
+- [Prune](https://github.com/BIG-RAT/Prune){:target="_blank"} - As your Jamf Pro Server ages it often accumulates more and more unused items, such as outdated packages, unscoped policies, mobile device apps... Use Prune to help identify and remove those unused items..
 
 
 ## Useful links :
