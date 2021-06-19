@@ -34,6 +34,8 @@ published: true
 
 - [Pathology](https://apps.apple.com/us/app/pathology/id877848776?mt=12){:target="_blank"} - XPath debugger and visualizer
 
+- [Patterns](https://apps.apple.com/in/app/patterns-the-regex-app/id429449079?mt=12){:target="_blank"} - Tool for working with regular expressions (regex)
+
 - [Log file navigator](http://lnav.org/features){:target="_blank"} - The  log  file navigator, lnav, is an enhanced log file viewer that takes advantage of any semantic information that can be gleaned from the files being viewed, such as timestamps and log levels.  Using this extra semantic information, lnav can do things like interleaving messages from different files, generate histograms of messages over time, and providing hotkeys for navigating through the file. It is hoped that these features will allow the user to quickly and efficiently zero in on problems.
   - You can do `brew install lnav`
 
