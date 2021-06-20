@@ -1,5 +1,5 @@
 ---
-title: "Jamf Pro On-premises - Apache tomcat cert update"
+title: "Jamf Pro On-premises - Apache Tomcat Certificate update"
 date: '2021-06-20 16:41:00 +0530'
 tags:
   - APPLE
@@ -16,8 +16,15 @@ published: true
 - Jamf Pro 10.30.0
 
 
-## Jamf Pro On-premises - Apache tomcat cert update :
+## Jamf Pro On-premises - Apache Tomcat Certificate update :
 
+*Functionality to issue the Tomcat SSL/TLS certificate from Jamf Pro’s built-in certificate authority — Jamf Pro’s functionality to issue the Tomcat SSL/TLS certificate from the JSS built-in certificate authority (CA) will be discontinued in a future release of Jamf Pro. The release version for this change has not been determined.*
+
+*Before this change occurs, it is recommended that all on-premise Jamf Pro instances leveraging this functionality switch to a publicly trusted third-party CA to issue the Tomcat SSL/TLS certificate. This will prevent the potential loss of MDM communication from Jamf Pro to enrolled devices.*
+
+*If needed, a Tomcat SSL/TLS server certificate for Jamf Pro may be issued from an internal certificate authority. The JSS built-in CA will maintain its current ability to manually issue server certificates to other servers.*
+
+Ref : <https://derflounder.wordpress.com/2021/06/15/jamf-pro-deprecating-the-ability-to-issue-a-tomcat-certificate-from-the-jamf-pro-built-in-certificate-authority/>{:target="_blank"}
 
 1. Generate a 2048-bit private key and a certificate signing request (CSR)
 
