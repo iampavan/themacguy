@@ -47,6 +47,20 @@ Ref : <https://derflounder.wordpress.com/2021/06/15/jamf-pro-deprecating-the-abi
 4. Combine the certificates with the private key in a .p12 file
 
 	`openssl pkcs12 -export -inkey ~/Desktop/pavanstaging/privkey.pem -in ~/Desktop/pavanstaging/csrReplyFromJamfPro.pem -name tomcat -CAfile ~/Desktop/pavanstaging/jamfProBuiltInCA.pem -caname root -chain -passout pass:jamf1234 -out ~/Desktop/pavanstaging/webCertificate.p12`
+	
+	| Flag       | Explanation     |
+	| :------------- | :----------: |
+	|  -export | Create a .p12 file   |
+	| -inkey   | The private key |
+	|  -in | The public key  |
+	| -name   | Friendly name to use (must be **tomcat** for use with a Tomcat Server) |
+	|  -CAfile | Certificate Authority's pem-encoded public certificate   |
+	| -caname   | Certificate Authority's friendly name |
+	| -chain   | Include the entire certificate chain |
+	| -passout pass:jamf1234   | Password for the .p12 file |
+	| -out   | Filename for the .p12 file |
+
+
 
 5. Upload the .p12 file to the Jamf Pro server
 
